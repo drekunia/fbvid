@@ -7,6 +7,6 @@
 - `git clone https://github.com/drekunia/fbvid`
 - `cd fbvid`
 - `php fbvid.php`
-- Copy the video URL on your address bar and paste it to the terminal  (e.g. https://www.facebook.com/drekunia/videos/804854133761744)
+- Copy the video URL on your address bar and paste it to the terminal&nbsp;(e.g. https://www.facebook.com/drekunia/videos/804854133761744)
 - Press Enter
 - Done (the video is saved in ~/Downloads)
